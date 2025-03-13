@@ -1,2 +1,2 @@
-Machine Problem 1
-Affine Transformations
+# Machine Problem 1
+### Affine Transformations
